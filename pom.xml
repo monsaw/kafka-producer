@@ -51,6 +51,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>kafka-producer</finalName>
     </build>
 
 </project>
